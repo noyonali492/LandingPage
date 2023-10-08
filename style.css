@@ -1,0 +1,33 @@
+.container{
+width:100%;
+
+border:1px solid red;
+
+}
+.container img{
+width:100%;
+background-size: cover;
+height:280px;
+}
+.container .left-area p{
+float:left;
+
+
+width:50%;
+font-size:25px;
+margin: 0;
+color:yellow;
+height: 250px;
+}
+.container .right-area p{
+float:left;
+width:50%;
+font-size:25px;
+margin: 0;
+color:white;
+height: 250px;
+text-align: justify;
+}
+body{
+	background-color:green;
+}
